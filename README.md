@@ -1,4 +1,4 @@
-# Python Fundamentals 🐍
+# Python Fundamentals
 
 This repository documents my journey from **Python fundamentals to AI engineering**.
 
